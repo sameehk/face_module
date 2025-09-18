@@ -2,8 +2,8 @@ import boto3
 
 AWS_ACCESS_KEY=''
 AWS_SECRET_KEY=''
-AWS_REGION='ap-south-1'
-BUCKET_NAME = 'face-checkin-2025'
+AWS_REGION=''
+BUCKET_NAME = ''
 
 OBJECT_KEY = 'test/test.jpg'
 
